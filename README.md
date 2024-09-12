@@ -1,8 +1,3 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://media.licdn.com/dms/image/D4E16AQFDPYkrRSdvFg/profile-displaybackgroundimage-shrink_350_1400/0/1709720472871?e=1720051200&v=beta&t=GlNCIkfw_Fk-E_rFcShRPU395O--JZOQKSTk0Cy7Z7U" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">👋 Hello there! I'm João Lopes, a Full Stack developer with a passion for technology and a side of sports! 🏐
 
 With a background in volleyball, where teamwork makes the dream work, I've carried over those collaborative skills into the world of software development. Just like on the court, I thrive in team settings where everyone brings their A-game to achieve a common goal.
